@@ -1,0 +1,15 @@
+#Environnement virtual
+venv/
+
+#python
+__pycache__/
+*.pyc
+
+#jupyter
+.ipynb_checkpoints/
+
+#Donnes locales
+data/
+
+#Fichiers temporaires
+.DS_Store
